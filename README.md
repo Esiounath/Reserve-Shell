@@ -1,1 +1,2 @@
-#All IT language i'm gonna learn  I try to create educational Malware to understand their behavior into Operating System#
+#EN:A Reverse SHELL that allows you to run a Windows-only command prompt to execute any commands from the compromised computer, but it lacks the ability to open network ports and ensure the program's persistence on the affected computer.
+FR:Reverse SHELL permettant d'executer un invite de commandes uniquement Windows pour executer n'importe quelle commandes depuis l'ordinateur piratée mais manque seulement l'ouverture des ports réseaux ainsi que la persistance du programme dans l'ordinateur concernée.
